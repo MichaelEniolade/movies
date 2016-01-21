@@ -1,9 +1,8 @@
-# movies
 <h1>Play Movie Trailer</h1>
 
 <h4>Version 1.0, January 20 2016</h4>
 
-<p>This is a simple python based web application that displays your best movie trailers.</p>
+<p>This is a python based web application that displays your best movie trailers.</p>
 
 <h3>Developer Contact Info:</h3>
 
