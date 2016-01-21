@@ -4,7 +4,7 @@
 
 <p>This is a python based web application that displays your best movie trailers.</p>
 
-<h3>Developer Contact Info:</h3>
+<h3>Developer Contact:</h3>
 
 Eniolade Michael<br>
 wisdomeniolade@gmail.com, wisdomeniolade@hotmail.com
