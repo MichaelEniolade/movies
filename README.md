@@ -21,7 +21,7 @@ wisdomeniolade@gmail.com, wisdomeniolade@hotmail.com
 
 5. Save any changes you've made to the files.
 
-6. Delete the fresh_tomatoes.html file
+6. Delete the fresh_tomatoes.html,fresh_tomatoes.pyc and media.pyc  file
 
 7. Open movies.py and run through a compiler to generate a new fresh_tomatoes.html file.
 
